@@ -1,0 +1,14 @@
+C:\Users\bprim\Documents\vstovscode\bin\Debug\net9.0\vstovscode.exe
+C:\Users\bprim\Documents\vstovscode\bin\Debug\net9.0\vstovscode.deps.json
+C:\Users\bprim\Documents\vstovscode\bin\Debug\net9.0\vstovscode.runtimeconfig.json
+C:\Users\bprim\Documents\vstovscode\bin\Debug\net9.0\vstovscode.dll
+C:\Users\bprim\Documents\vstovscode\bin\Debug\net9.0\vstovscode.pdb
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.AssemblyInfoInputs.cache
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.AssemblyInfo.cs
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.csproj.CoreCompileInputs.cache
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.dll
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\refint\vstovscode.dll
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.pdb
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\vstovscode.genruntimeconfig.cache
+C:\Users\bprim\Documents\vstovscode\obj\Debug\net9.0\ref\vstovscode.dll
